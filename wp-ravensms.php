@@ -418,7 +418,7 @@ License: GPL2
 			if(strlen($mobile) < 11){
 				$error .= " Numero troppo corto, minimo 11 cifre";	
 			}
-			if(!preg_match("/^\+[0-9].$/",$mobile)){
+			if(!preg_match("/^\+[0-9]+$/",$mobile)){
 				$error .= " Numero non valido, deve essere composto da sole cifre e contenere il prefisso internazionale";
 			}
 		}
