@@ -1,0 +1,434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-ravensms\n"
+"POT-Creation-Date: 2014-11-26 09:40+0100\n"
+"PO-Revision-Date: 2014-11-26 09:44+0100\n"
+"Last-Translator: Airtelco <info@airtelco.com>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-SearchPath-0: /Users/cervo/Desktop/wp\n"
+
+#: /Users/cervo/Desktop/wp/datradurre.php:2
+#, php-format
+msgid "<strong>%s</strong> Contatti aggiunti con successo"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:3
+#, php-format
+msgid "<strong>%s</strong> Numeri duplicati"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:4
+msgid "About"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:5
+msgid "Accesso Negato!"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:6
+msgid "Active"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:7
+msgid "Aggiungi"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:8
+msgid "Aggiungi Contatto"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:9
+msgid "Aggiungi Nuovo Gruppo"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:10
+msgid "Applica"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:11
+msgid "Attivare"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:12
+msgid "Azioni"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:13
+msgid "Azioni sulla Rubrica"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:14
+msgid "Cancella"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:15
+msgid "Cancella Gruppo"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:16
+msgid "Cancellare"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:17
+msgid "Cancellati"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:18
+msgid "Cancellazione effettuata con Successo"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:19
+msgid "Cognome"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:20
+msgid "Complilare tutti i campi"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:21
+msgid "Configura"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:22
+msgid "Configurazione"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:23
+msgid "Contatti"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:24
+#, php-format
+msgid "Contatto <strong>%s %s</strong> Aggiunto con Successo"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:25
+#, php-format
+msgid "Contatto <strong>%s %s</strong> Modificato con Successo"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:26
+msgid "Contatto Attivato"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:27
+msgid "Contatto Disattivato"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:28
+msgid "Contatto Rimosso con Successo"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:29
+#, php-format
+msgid "Controlla il <a href=\"%s\">Credito</a>"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:30
+msgid "Credito"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:31
+msgid "Credito Residuo"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:32
+msgid "Data"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:33
+msgid "Dati inseriti non corretti"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:34
+msgid "Deactive"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:35
+msgid "Destinatario"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:36
+msgid "Di"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:37
+msgid "Disattivare"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:38
+msgid "Esporta"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:39
+msgid "Esportazione in csv"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:40
+msgid "File"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:41
+msgid "General"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:42
+msgid "Gruppo"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:43
+#, php-format
+msgid "Gruppo <strong>%s</strong> Aggiunto con Successo"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:44
+#, php-format
+msgid "Gruppo <strong>%s</strong> Rimosso con Successo"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:45
+msgid "Gruppo esistente"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:46
+msgid "ID Spedizione"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:47
+msgid "Il File deve avere il seguente formato"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:48
+msgid "Importa"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:49
+msgid "Indietro"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:50
+msgid "Inserire il Mittente (il tuo numero di cellulare)"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:51
+msgid "Inserire il prefisso internazionale del tuo paese"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:52
+msgid "Inserire la Login"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:53
+msgid "Inserire la password"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:54
+msgid "Invia SMS"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:55
+msgid "Invia SMS tramite WordPress usando il servizio SMS di Airtelco"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:56
+msgid "Iscriviti"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:57
+msgid "Iscrizione avvenuta con successo!"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:58
+msgid "Iscrizione cancellata"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:59
+msgid "Lettere rimaste"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:60
+msgid "Login"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:61
+msgid "Messaggio"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:62
+msgid "Mittente"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:63
+msgid "Messaggio vuoto o Destinatario non specificato"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:64
+msgid "Modifica"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:65
+msgid "Modifica Utente"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:66
+msgid "Nessun Gruppo"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:67
+msgid "Nome"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:68
+msgid "Nome del gruppo"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:69
+msgid "Non Trovato!"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:70
+msgid "Numero"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:71
+msgid "Numero di SMS"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:72
+msgid "Numero di telefono"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:73
+msgid "Numero esistente"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:74
+msgid "Numero esistente in rubrica"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:75
+msgid "Numero non valido"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:76
+msgid ""
+"Numero non valido. Deve contenere il prefisso internazionale. Es. +39...."
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:77
+msgid "Operazione Fallita. Riprovare tra qualche minuto"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:78
+msgid "Operazione completata con Successo"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:79
+msgid "Pagina"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:80
+msgid "Password"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:81
+msgid "Permesso Negato"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:82
+msgid "Prefisso"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:83
+msgid "Raven SMS"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:84
+msgid "RavenSMS"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:85
+msgid "Ricerca"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:86
+msgid "Risultati della ricerca per"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:87
+msgid "Rubrica"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:88
+msgid "SMS"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:89
+msgid "SMS Inviati"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:90
+msgid "Scarica Notifiche"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:91
+#, php-format
+msgid "Se non hai un account <a href=\"%s\">clicca qui..</a>"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:92
+msgid "Sei sicuro di voler cancellare le righe selezionate?"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:93
+msgid "Sei sicuro?"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:94
+msgid "Seleziona il tipo di file"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:95
+msgid "Servizio"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:96
+msgid "Stato"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:97
+msgid "Subscribe to SMS"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:98
+msgid "Telefono"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:99
+msgid "Torna indietro"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:100
+msgid "Tutti"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:101
+#, php-format
+msgid "Tutti (%s gruppi)"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:102
+msgid "Versione plugin"
+msgstr ""
+
+#: /Users/cervo/Desktop/wp/datradurre.php:103
+msgid "e' il solo formato accettato"
+msgstr ""
