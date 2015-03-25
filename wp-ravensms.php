@@ -507,7 +507,7 @@ License: GPL2
 		
 		if(isset($_POST['wp_edit_subscribe'])) {
 		
-			if($error = '' && $name && $surname && $mobile && $group) {
+			if($error == '' && $name && $surname && $mobile && $group) {
 				
 				$check = $wpdb->update("{$table_prefix}sms_addressbook",
 						array(
