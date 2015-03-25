@@ -68,6 +68,9 @@
 									$proceed = 1;
 								}
 							}
+							if($_POST['wpsms_group_name'] != 'none'){
+								$proceed = 1;
+							}
 							
 							if($proceed == 1){
 								$result = $sms->SendSMS();
